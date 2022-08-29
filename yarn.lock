@@ -1766,10 +1766,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"pathe@npm:^0.2.0":
-  version: 0.2.0
-  resolution: "pathe@npm:0.2.0"
-  checksum: 9a8149ce152088f30d15b0b03a7c128ba21f16b4dc1f3f90fe38eee9f6d0f1d6da8e4e47bd2a4f9e14aaac7c30ed01cfc86216479011de2bdc598b65e6f19f41
+"pathe@npm:^0.3.5":
+  version: 0.3.5
+  resolution: "pathe@npm:0.3.5"
+  checksum: 734f54de80dae59a1cc6e62eb09bbd8f88062d118a01b8a428423c168160cee44d6a09c415ff1d7c410ee4a767a76206c13da6af289e11f6eb1a040382a28edd
   languageName: node
   linkType: hard
 
@@ -2111,7 +2111,7 @@ __metadata:
     tiktok-dl-config: "*"
     tiktok-dl-core: "*"
     typescript: latest
-    windicss-webpack-plugin: 1.7.5
+    windicss-webpack-plugin: 1.7.6
   languageName: unknown
   linkType: soft
 
@@ -2396,10 +2396,10 @@ typescript@latest:
   languageName: node
   linkType: hard
 
-"webpack-virtual-modules@npm:^0.4.3":
-  version: 0.4.3
-  resolution: "webpack-virtual-modules@npm:0.4.3"
-  checksum: 158d30633e0d9be3cfcde10fe959b28df5d5adb1068e0f057fcfb10b0b16ede6c892eba438f6ced089c7c442087748c2fcd1e3f035e4e2dc6760517a8c227714
+"webpack-virtual-modules@npm:^0.4.4":
+  version: 0.4.4
+  resolution: "webpack-virtual-modules@npm:0.4.4"
+  checksum: 6720b4c47d76dc9cbaff557562506c192da7560a90395e9918a418e257a0c0cda9f5e3ac92107ec0789f8f23ad942313bd8cdebc95031d0adef1032bf6142bc7
   languageName: node
   linkType: hard
 
@@ -2414,19 +2414,19 @@ typescript@latest:
   languageName: node
   linkType: hard
 
-"windicss-webpack-plugin@npm:1.7.5":
-  version: 1.7.5
-  resolution: "windicss-webpack-plugin@npm:1.7.5"
+"windicss-webpack-plugin@npm:1.7.6":
+  version: 1.7.6
+  resolution: "windicss-webpack-plugin@npm:1.7.6"
   dependencies:
     "@windicss/plugin-utils": ^1.8.7
     debug: ^4.3.4
     get-port: ^6.1.2
     loader-utils: ^2.0.0
     lodash: ^4.17.21
-    pathe: ^0.2.0
-    webpack-virtual-modules: ^0.4.3
+    pathe: ^0.3.5
+    webpack-virtual-modules: ^0.4.4
     windicss: ^3.5.6
-  checksum: ed592c3063f8a0ce8225c26f33c2278e6d3f981906c3cb8f9f0ad84c8c299fd78f2864db0138d322d4237eb75d416584ec3d6db30e6873926f3eb017377145e6
+  checksum: 480d981507aad11076b8990cb5f5da734ae180e753d8ae5878fd77ec04710d34ab5bf32c2cf84e95baf592f5a88abc6aec79900f9bb056ac86ef8cdcf0566dd7
   languageName: node
   linkType: hard
 
