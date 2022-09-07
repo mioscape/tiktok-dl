@@ -14,7 +14,7 @@ Great! You're ready to use.
 
 ### :satellite: Endpoints
 
-Currently, we only have 3 endpoints in the TikTok-DL Rest API v1.0.4.
+Currently, we only have 3 endpoints in the TikTok-DL Rest API v1.0.0.
 
 {% swagger method="get" path="api/download" baseUrl="https://tiktok.ihyafauzi.my.id/" summary="Getting TikTok" %}
 {% swagger-description %}
@@ -161,10 +161,7 @@ Rotate provider when an error is returned.
         }]
     }
 ]
+
 ```
 {% endswagger-response %}
 {% endswagger %}
-
-### :fire: HELP WANTED
-
-I need more TikTok downloader websites where it could be a provider of this project, you could create an issue if you know about that. And, I need someone want contribute to this project :duck:
