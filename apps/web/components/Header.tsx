@@ -19,7 +19,7 @@ export const NextHeadComponent = ({
             />
             <meta
                 name="description"
-                content="An Open-Source Project where it could download TikTok's Video without annoying ads!"
+                content="An Project where it could download TikTok's Video without annoying ads!"
             />
             <meta
                 name="keywords"
@@ -27,7 +27,7 @@ export const NextHeadComponent = ({
             />
             <meta
                 name="author"
-                content="Hanif Dwy Putra S <github.com/hansputera>"
+                content="Muhammad Ihya Fauzi Gunawan <github.com/mioscape>"
             />
             <meta name="robots" content="index, follow" />
             {children}
