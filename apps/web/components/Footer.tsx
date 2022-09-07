@@ -6,7 +6,7 @@ export const Footer = () => (
             &copy; {new Date().getFullYear()}{' '}
             <a
                 target="_blank"
-                href="https://github.com/hansputera/tiktok-dl.git"
+                href="https://github.com/mioscape"
             >
                 TikTok-DL Project
             </a>
