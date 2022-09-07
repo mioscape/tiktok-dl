@@ -3,7 +3,7 @@ import Head from 'next/head';
 
 export default () => {
     const {data, error} = useSWR(
-        'https://api.github.com/repos/hansputera/tiktok-dl',
+        'https://api.github.com/repos/mioscape/tiktok-dl',
         (...args) => fetch(...args).then((r) => r.json()),
     );
     return (
